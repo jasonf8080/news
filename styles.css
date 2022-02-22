@@ -382,7 +382,7 @@ section{
 }
 
 @media(max-width: 1024px){
-    .header-grid{
+    .header-grid, .articles-socials{
         grid-template-columns: 1fr;
     }
 
