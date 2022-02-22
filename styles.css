@@ -338,9 +338,7 @@ section{
     padding: 20px;
 }
 
-.socials{
-  
-}
+
 
 .icon-item{
     height: 70px;
@@ -383,7 +381,7 @@ section{
 }
 
 @media(max-width: 1024px){
-    .header-grid, .articles-socials{
+    .header-grid, .articles-socials, .articles-section{
         grid-template-columns: 1fr;
     }
 
