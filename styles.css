@@ -411,7 +411,7 @@ section{
         height: 100px;
     }
 
-    .header-2-item p{
+    .header-2-item p, .tab-item p{
         font-size: 12px;
     }
 }
