@@ -1111,34 +1111,8 @@
                 "content": null, 
                 "category": "Tech"
                 },
-                {
-                    "source": {
-                    "id": null,
-                    "name": "The Guardian"
-                    },
-                    "author": "Guardian staff reporter",
-                    "title": "It’s time to consider natural immunity to Covid-19 as equal to one-shot of the vaccine - The Guardian",
-                    "description": "The term ‘fully vaccinated’ needs to be redefined. It’s time for the United States and the CDC to see natural immunity as a partial path to protection",
-                    "url": "https://amp.theguardian.com/commentisfree/2022/feb/20/its-time-to-consider-natural-immunity-to-covid-19-as-equal-to-one-shot-of-the-vaccine",
-                    "urlToImage": null,
-                    "publishedAt": "2022-02-20T11:28:00Z",
-                    "content": "Opinion The term fully vaccinated needs to be redefined. Its time for the United States and the CDC to see natural immunity as a partial path to protection\r\nSun 20 Feb 2022 11.27 GMT\r\nThe US Centers … [+6547 chars]",
-                    "category": "Health"
-                    },
-                    {
-                    "source": {
-                    "id": "associated-press",
-                    "name": "Associated Press"
-                    },
-                    "author": null,
-                    "title": "Federal officials confirm bird flu detected in New York - Associated Press",
-                    "description": "NEW YORK (AP) — A highly pathogenic avian influenza has been detected in a non-commercial backyard flock of birds on Long Island in New York, federal authorities confirmed Saturday. Samples from the flock were tested at the Cornell University Animal Health Di…",
-                    "url": "https://apnews.com/article/health-environment-and-nature-new-york-iowa-flu-b7eafc9fafc4321336013f490037cefc",
-                    "urlToImage": "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png",
-                    "publishedAt": "2022-02-20T00:59:17Z",
-                    "content": "NEW YORK (AP) A highly pathogenic avian influenza has been detected in a non-commercial backyard flock of birds on Long Island in New York, federal authorities confirmed Saturday.\r\nSamples from the f… [+1075 chars]",
-                    "category": "Health"
-                    },
+             
+              
                     {
                     "source": {
                     "id": null,
@@ -1153,48 +1127,8 @@
                     "content": "Samantha Lewis, who suffers from long Covid, in Aurora, Ill., Oct. 7, 2021. (Alex Wroblewski/The New York Times)\r\nMillions of people continue to suffer from exhaustion, cognitive problems and other l… [+7724 chars]",
                     "category": "Health"
                     },
-                    {
-                    "source": {
-                    "id": null,
-                    "name": "KABC-TV"
-                    },
-                    "author": null,
-                    "title": "Wisconsin reports first death of child due to MIS-C, rare syndrome linked to COVID-19 - KABC-TV",
-                    "description": "A Wisconsin reports the first child to die from MIS-C, a rare condition linked to COVID-19.",
-                    "url": "https://abc7.com/covid-19-covid-death-child-misc-c/11581296/",
-                    "urlToImage": "https://cdn.abcotvs.com/dip/images/11465538_011322-kgo-covid-test-tube-generic-img.jpg?w=1600",
-                    "publishedAt": "2022-02-19T21:11:46Z",
-                    "content": "MILWAUKEE -- A Wisconsin child has died of a rare condition linked to COVID-19.The Milwaukee Journal Sentinel reported Friday the child is the first in the state to die of Multisystem Inflammatory Sy… [+708 chars]",
-                    "category": "Health"
-                    },
-                    {
-                    "source": {
-                    "id": null,
-                    "name": "YouTube"
-                    },
-                    "author": null,
-                    "title": "First Woman Possibly Cured Of HIV - MSNBC",
-                    "description": null,
-                    "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5oapF0o8hMo",
-                    "urlToImage": null,
-                    "publishedAt": "2022-02-19T20:00:05Z",
-                    "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later",
-                    "category": "Health"
-                    },
-                    {
-                    "source": {
-                    "id": "cnn",
-                    "name": "CNN"
-                    },
-                    "author": "Brenda Goodman",
-                    "title": "As BA.2 subvariant of Omicron rises, lab studies point to signs of severity - CNN",
-                    "description": "The BA.2 virus -- a subvariant of the Omicron coronavirus variant -- isn't just spreading faster than its distant cousin, it may also cause more severe disease and appears capable of thwarting some of the key weapons we have against Covid-19, new research sug…",
-                    "url": "https://www.cnn.com/2022/02/17/health/ba-2-covid-severity/index.html",
-                    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220217135829-covid-testing-denmark-file.jpg?c=16x9&q=w_800,c_fill",
-                    "publishedAt": "2022-02-19T18:06:00Z",
-                    "content": "The BA.2 virus a subvariant of the Omicron coronavirus variant isnt just spreading faster than its distant cousin, it may also cause more severe disease and appears capable of thwarting some of the k… [+6015 chars]",
-                    "category": "Health"
-                    },
+                  
+                    
                     {
                     "source": {
                     "id": null,
@@ -1223,20 +1157,7 @@
                     "content": "Its hardly news that exercise is good for your physical health, and has long been extolled as beneficial for mental health, as well. But researchers are now making progress in understanding how exerc… [+8721 chars]",
                     "category": "Health"
                     },
-                    {
-                    "source": {
-                    "id": null,
-                    "name": "Minneapolis Star Tribune"
-                    },
-                    "author": "Christopher Snowbeck",
-                    "title": "Minnesota health insurers passing more COVID costs to patients - Minneapolis Star Tribune",
-                    "description": "Health plans are now treating the financial consequences of the infectious disease like other ailments.",
-                    "url": "https://www.startribune.com/minnesota-health-insurers-passing-more-covid-costs-to-patients/600148539/",
-                    "urlToImage": "https://chorus.stimg.co/23252980/merlin_66496261.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
-                    "publishedAt": "2022-02-19T14:04:59Z",
-                    "content": "Minnesota health insurers are passing more costs of COVID care to patients as health plans start treating some expenses from pandemic illness like those with other ailments.\r\nThe move means a growing… [+6997 chars]",
-                    "category": "Health"
-                    },
+                   
                     {
                     "source": {
                     "id": null,
@@ -1251,20 +1172,7 @@
                     "content": "Another horrific winter of the covid-19 pandemic in the U.S. has once again come with a silver lining: barely-there influenza. CDC data this week continues to show little flu activity in whats alread… [+4903 chars]",
                     "category": "Health"
                     },
-                    {
-                    "source": {
-                    "id": "business-insider",
-                    "name": "Business Insider"
-                    },
-                    "author": "Aria Bendix",
-                    "title": "Vitamin D isn't an effective COVID-19 treatment, but scientists haven't ruled out its relationship to severe disease - Yahoo News",
-                    "description": "Vitamin D shortened a COVID-19 patient's hospital stay, but there's no evidence that taking vitamins reduces the risk of dying from COVID-19.",
-                    "url": "https://www.businessinsider.com/zinc-vitamins-dont-prevent-severe-covid-study-2022-2",
-                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LgSJQNU16XhyZNzKhP.HZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/uu/api/res/1.2/R7KbC5kuuYZMq1_pZbqhmg--~B/aD0zMTA2O3c9NDE0MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/841ca16b0d3526c8b3ca586d4c48c98d",
-                    "publishedAt": "2022-02-19T13:31:00Z",
-                    "content": "Vitamin D droplets inside a family home on February 2, 2015.Rick Madonik/Toronto Star/Getty Images\r\n<ul><li>Zinc, vitamin C, and vitamin D don't prevent COVID-19 deaths, a scientific review found.\r\n<… [+5241 chars]",
-                    "category": "Health"
-                    },
+                  
                     {
                     "source": {
                     "id": null,
@@ -1349,34 +1257,8 @@
                     "content": "For far too long now, we have been told that exercise is the key component to losing weight. The 'calories in and calories out' approach constantly propagates that we have to keep burning what we eat… [+4702 chars]",
                     "category": "Health"
                     },
-                    {
-                    "source": {
-                    "id": null,
-                    "name": "New York Times"
-                    },
-                    "author": "Matt Richtel",
-                    "title": "More Teenage Girls With Eating Disorders Wound Up in the E.R. During the Pandemic - The New York Times",
-                    "description": "A new C.D.C. study underscored the mental health issues facing teenagers in the past few years.",
-                    "url": "https://www.nytimes.com/2022/02/18/health/girls-eating-disorders-pandemic.html",
-                    "urlToImage": "https://static01.nyt.com/images/2022/02/18/multimedia/18teens-cdc-mentalhealth-topart/18teens-cdc-mentalhealth-topart-facebookJumbo.jpg",
-                    "publishedAt": "2022-02-18T23:54:29Z",
-                    "content": "In the C.D.C. study, the agency said that the proportion of eating disorder visits doubled among teenage girls, set off by pandemic-related risk factors, like the lack of structure in daily routine, … [+1241 chars]",
-                    "category": "Health"
-                    },
-                    {
-                    "source": {
-                    "id": null,
-                    "name": "Gizmodo.com"
-                    },
-                    "author": "Rob Bricken",
-                    "title": "CDC Confirms Power of Anime (and Ventilation) Prevented NYC Con From Being an Omicron Superspreader - Gizmodo",
-                    "description": "This is extremely good news not just for Anime NYC, but for cons across the country.",
-                    "url": "https://gizmodo.com/cdc-confirms-power-of-anime-and-ventilation-prevented-1848562485",
-                    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/65d6cdab291cf6d27d85ad9f37ec22ca.png",
-                    "publishedAt": "2022-02-18T23:00:00Z",
-                    "content": "The Center for Disease Control released a study yesterday that the 2021 Anime NYC convention was not a superspreader event, despite the attendance of one of the first known people in the U.S. to have… [+2118 chars]",
-                    "category": "Health"
-                    },
+                   
+                   
                     {
                     "source": {
                     "id": null,
@@ -1391,7 +1273,43 @@
                     "content": "Summary: In children with autism, girls had different patterns of connectivity than boys in brain areas associated with motor, language, and visuospatial attention. Generally, girls display fewer rep… [+10122 chars]",
                     "category": "Health",
                     "header2": true
-                    }
+                    },
+
+                   
+                        
+                        
+                        
+                        {
+                        "source": {
+                        "id": null,
+                        "name": "The Guardian"
+                        },
+                        "author": "Nicola Davis",
+                        "title": "Does life flash before your eyes? Brain scan of dying man suggests it’s possible - The Guardian",
+                        "description": "Scientists report unexpected brain activity in patient, 87, as he died from heart attack",
+                        "url": "https://amp.theguardian.com/science/2022/feb/23/does-life-flash-before-your-eyes-brain-scan-of-dying-man-suggests-its-possible",
+                        "urlToImage": null,
+                        "publishedAt": "2022-02-23T12:37:00Z",
+                        "content": "ScienceScientists report unexpected brain activity in patient, 87, as he died from heart attack\r\nWhen Harry Stamper sets off a bomb to save planet Earth in the film Armageddon, his life flashes befor… [+3772 chars]",
+                        "category": "Health"
+                        },
+                      
+        
+                        {
+                        "source": {
+                        "id": null,
+                        "name": "Eatthis.com"
+                        },
+                        "author": "Samantha Boesch",
+                        "title": "The Best Foods to Eat for Your Heart, According to New AHA Guidelines — Eat This Not That - Eat This, Not That",
+                        "description": "The AHA released its new guidelines for living a healthy life. Here are the best heart-healthy foods, according to the report.",
+                        "url": "http://www.eatthis.com/best-foods-to-eat-for-your-heart/",
+                        "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2021/07/healthy-foods.jpg?quality=82&strip=all",
+                        "publishedAt": "2022-02-22T19:35:53Z",
+                        "content": "Heart disease, unfortunately, continues to be a devastating problem for people in the United States. This is why organizations like the American Heart Association (AHA) are working to provide people … [+6112 chars]",
+                        "category": "Health"
+                        }
+                     
 
     ]
     }
