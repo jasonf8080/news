@@ -2,6 +2,8 @@ const articlesSection = document.querySelector('.articles-section');
 const headerArticlesSection = document.querySelector('.header-2');
 const categorySelectors = document.querySelectorAll('.tab-item');
 const slider = document.querySelector('.slider');
+const progress = document.querySelector('.progress');
+
 
 
 //event listeners
@@ -81,7 +83,7 @@ async function setupCategories(array){
             </div>
         </a>`;
     }).join('');
-
+    console.log(array);
     articlesSection.innerHTML = array; 
 }
 
@@ -132,5 +134,30 @@ function updateTabColor(e){
     }
 }
 
+$('.owl-carousel').owlCarousel({
+    loop: true,
+    margin: 20,
+    nav: false,
+    autoplay:  true,
+    autoplayTimeout: 3000,
+    dots:  false,
+    responsive: {
+        600:{
+            items:1
+        },
+        800:{
+            items:2
+        },
+
+        1024:{
+            items: 3
+        },
+
+        1025:{
+            items: 4
+        }
+
+    }
+})
 
 

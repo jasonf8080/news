@@ -6,32 +6,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
     <!--nav-->
     <nav class="nav">
-
-        <div class="nav-links">
-            <ul class="links">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Trending</a></li>
-                <li><a href="#">Category</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-            <div class="search-container">
-                <input id="search-input" type="text" placeholder="Search News">
-                <button>
-                    <i class="fas fa-search"></i>
-                </button>
+        
+            <div class="logo-container">
+                <img class="logo" src="logo1.png">
+                <img class="nav-ad" src="https://technext.github.io/news/assets/img/gallery/header_card.png">
             </div>
-            
-        </div>
+
+            <div class="nav-links-container">
+                <div class="nav-container">
+                    <ul class="links">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Trending</a></li>
+                        <li><a href="#">Latest News</a></li>
+                        <li><a href="#">Category</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+
+                    <div class="search-div">
+                        <input type="text" placeholder="Search News">
+                        <button class="search-btn">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+    
     </nav>
     <main>
         <section class="header-section">
-            <h2 class="heading">Trending Now</h2>
             <div class="header-grid">
                 <div class="header-1">
                     <div class="header-1-main">
@@ -43,25 +53,95 @@
                     </div>
 
                     <div class="header-1-secondary">
-                        <div class="secondary-item">
-                            <img src="https://www.eatthis.com/wp-content/uploads/sites/4/2021/07/healthy-foods.jpg?quality=82&strip=all" alt="">
-                            <div class="secondary-item-content">
-                                <p class="category tech">Tech</p>
-                                <p>Winter Olympics 2022 Live Updates: Latest News and Medal Count from Beijing</p>    
-                            </div>
+                        <div class="header-1-main">
+                            <img src="https://www.hollywoodreporter.com/wp-content/uploads/2022/02/GettyImages-1368617762-H-2022.jpg" alt="">
+                                <div class="header-main-content">
+                                    <p class="category sports">Sports</p>
+                                    <p>Winter Olympics 2022 Live Updates: Latest News and Medal Count from Beijing</p>    
+                                </div>
                         </div>
-                        <div class="secondary-item">
-                            <img src="https://static01.nyt.com/images/2022/02/19/multimedia/live-blog-20220220-olympics-medals-winter-header-01/live-blog-20220220-olympics-medals-winter-header-01-facebookJumbo.jpg" alt="">
-                            <div class="secondary-item-content">
-                                <p class="category business">Business</p>
-                                <p>Winter Olympics 2022 Live Updates: Latest News and Medal Count from Beijing</p>    
-                            </div>
+                        <div class="header-1-main">
+                            <img src="https://www.hollywoodreporter.com/wp-content/uploads/2022/02/GettyImages-1368617762-H-2022.jpg" alt="">
+                                <div class="header-main-content">
+                                    <p class="category sports">Sports</p>
+                                    <p>Winter Olympics 2022 Live Updates: Latest News and Medal Count from Beijing</p>    
+                                </div>
                         </div>
                     </div>
                 </div>
 
                 <div class="header-2"></div>
             </div>
+        </section>
+
+
+        <section class="trending-section">
+            <div class="trending-container">
+                <h2 class="heading">Trending Now</h2>
+
+                <div class="owl-carousel owl-theme">
+                    <a href="https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNjUPVsfmIc8" class="article" id="Sports">
+                        <img class="article-img" src="null">
+                        <div class="article-content">
+                            <p class="category sports">Sports</p>
+                            <p class="title">NHL Highlights | Avalanche vs. Sabres - Feb. 19, 2022 - SPORTSNET</p>
+                           
+                        </div>
+                    </a><a href="https://www.onlineathens.com/story/sports/2022/02/18/georgia-basketball-wade-mason-tom-crean-brian-fish-ole-miss-lsu-suspension/6848432001/" class="article" id="Sports">
+                        <img class="article-img" src="https://www.gannett-cdn.com/presto/2022/02/03/NABH/2db1dbd6-8812-4d61-898a-0be1ba9f5195-220202_JLJ_UGAvsArkansas_Mbasketball_0993.JPG?auto=webp&crop=5073,2854,x0,y258&format=pjpg&width=1200">
+                        <div class="article-content">
+                            <p class="category sports">Sports</p>
+                            <p class="title">Georgia men's basketball coach Tom Crean responds to assistant coach's suspension - Online Athens</p>
+                           
+                        </div>
+                    </a><a href="https://sports.yahoo.com/eric-weddle-goes-from-super-bowl-winning-nfl-return-to-high-school-football-coach-203422430.html" class="article" id="Sports">
+                        <img class="article-img" src="https://s.yimg.com/ny/api/res/1.2/ORfOEk6PgA5v_feNcw3f4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-02/331d2100-91c3-11ec-bfa7-e06d63013898">
+                        <div class="article-content">
+                            <p class="category sports">Sports</p>
+                            <p class="title">Eric Weddle goes from Super Bowl-winning NFL return to high school football coach - Yahoo Sports</p>
+                           
+                        </div>
+                    </a><a href="https://www.espn.com/nba/story/_/id/33329213/charlotte-hornets-rookie-james-bouknight-ejected-courtside-seat-uconn-men-basketball-game" class="article" id="Sports">
+                        <img class="article-img" src="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0219%2Fr976556_1296x729_16%2D9.jpg">
+                        <div class="article-content">
+                            <p class="category sports">Sports</p>
+                            <p class="title">Charlotte Hornets rookie James Bouknight ejected from courtside seat at UConn men's basketball game - ESPN</p>
+                           
+                        </div>
+                    </a><a href="https://www.youtube.com/watch?v=oLuf5Lno6Pk" class="article" id="Sports">
+                        <img class="article-img" src="https://i.ytimg.com/vi/oLuf5Lno6Pk/maxresdefault.jpg">
+                        <div class="article-content">
+                            <p class="category sports">Sports</p>
+                            <p class="title">Harry Kane grabs dramatic Tottenham Hotspur winner v. Manchester City | Premier League | NBC Sports - NBC Sports</p>
+                           
+                        </div>
+                    </a><a href="https://www.aseaofblue.com/2022/2/19/22942208/kentucky-basketball-alabama-final-score-recap-takeaways-uk-wildcats-news" class="article" id="Sports">
+                        <img class="article-img" src="https://cdn.vox-cdn.com/thumbor/HqleOOguTmwukROOj16rhfrll4o=/0x0:5824x3049/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23257786/usa_today_17722298.jpg">
+                        <div class="article-content">
+                            <p class="category sports">Sports</p>
+                            <p class="title">Kentucky Basketball beats Alabama: Final score, recap and takeaways - A Sea Of Blue</p>
+                           
+                        </div>
+                    </a><a href="https://www.youtube.com/watch?v=q-8bBbSeMEQ" class="article" id="Sports">
+                        <img class="article-img" src="https://i.ytimg.com/vi/q-8bBbSeMEQ/maxresdefault.jpg">
+                        <div class="article-content">
+                            <p class="category sports">Sports</p>
+                            <p class="title">Liverpool v. Norwich City | PREMIER LEAGUE HIGHLIGHTS | 2/19/2022 | NBC Sports - NBC Sports</p>
+                           
+                        </div>
+                    </a><a href="https://www.cbssports.com/college-basketball/news/bracketology-big-12-leads-way-with-four-teams-in-ncaa-selection-committees-early-official-top-16-seeds/" class="article" id="Sports">
+                        <img class="article-img" src="https://sportshub.cbsistatic.com/i/r/2022/02/19/efba9cf0-7c3b-49b8-a375-3b20ba47a34a/thumbnail/1200x675/8b2ca5c379ea14bead7db6b1e68e9a90/bracketology-ttu.jpg">
+                        <div class="article-content">
+                            <p class="category sports">Sports</p>
+                            <p class="title">Bracketology: Big 12 leads way with four teams in NCAA selection committee's early official top 16 seeds - CBS Sports</p>
+                           
+                        </div>
+                    </a>
+                </div>
+    
+            </div>
+          
+            
         </section>
         
         <section class="articles-socials">
@@ -83,11 +163,11 @@
                     </div>
 
                     <div class="tab-item">
-                        <p>Tech</p>
+                        <p>Health</p>
                     </div>
 
                     <div class="tab-item">
-                        <p>Health</p>
+                        <p>Tech</p>
                     </div>
                 </div>
 
@@ -134,6 +214,12 @@
         </section>
         
     </main>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="app.js"></script>
+   
+    
+   
 </body>
 </html>
