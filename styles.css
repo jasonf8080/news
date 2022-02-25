@@ -496,6 +496,11 @@ section{
 }
 
 @media(max-width: 600px){
+
+    .trending-section{
+        padding: 30px 0;
+    }
+    
     .tab-item p{
         font-size: 10px;
     }
