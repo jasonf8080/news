@@ -471,7 +471,7 @@ section{
 @media(max-width: 800px){
 
     section, .trending-container{
-        width: 80%;
+        width: 90%;
     }
 
     .header-2-item img{
