@@ -2,7 +2,8 @@ const articlesSection = document.querySelector('.articles-section');
 const headerArticlesSection = document.querySelector('.header-2');
 const categorySelectors = document.querySelectorAll('.tab-item');
 const slider = document.querySelector('.slider');
-const progress = document.querySelector('.progress');
+const dots = document.querySelectorAll('.dots-container i');
+
 
 
 
@@ -139,13 +140,13 @@ $('.owl-carousel').owlCarousel({
     margin: 20,
     nav: false,
     autoplay:  true,
-    autoplayTimeout: 3000,
+    autoplayTimeout: 4000,
     dots:  false,
     responsive: {
         300:{
             items:1
         },
-        800:{
+        600:{
             items:2
         },
 
@@ -160,4 +161,25 @@ $('.owl-carousel').owlCarousel({
     }
 })
 
+let counter = 0;
 
+window.addEventListener('DOMContentLoaded', () =>{
+    dots[0].classList.add('active');
+})
+
+function changeDot(){
+    let activeDot = dots[counter];
+
+    counter++;
+
+    if(counter > dots.length - 1){
+        counter = 0;
+    }
+
+    dots.forEach(dot => {
+        dot.classList.remove('active');
+        activeDot.classList.add('active');
+    })
+}
+changeDot();
+setInterval(changeDot, 4000);
