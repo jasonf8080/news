@@ -142,7 +142,7 @@ $('.owl-carousel').owlCarousel({
     autoplayTimeout: 3000,
     dots:  false,
     responsive: {
-        600:{
+        300:{
             items:1
         },
         800:{
